@@ -1,1 +1,1 @@
-Android widget
+Android Clearable EditText Widget is an custom edittext view with a clear button which can be easily used anywhere in the project without adding clear button, methods and listeners repeatedly in all files.
